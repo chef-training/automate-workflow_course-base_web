@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: base_web
+# Cookbook:: base_web
 # Recipe:: default
 #
-# Copyright (c) 2016 The Authors, All Rights Reserved.
+# Copyright:: (c) 2016 The Authors, All Rights Reserved.
 
 case node['platform_family']
 when 'rhel'
