@@ -5,7 +5,6 @@ issues_url 'https://somewhere.over.the.rainbow'
 source_url 'https://way.up,high'
 license 'there are rights that I heard of'
 description 'once in a lullaby'
-long_description 'Installs/Configures base_web'
 version '0.2.2'
 
 depends 'apt'
